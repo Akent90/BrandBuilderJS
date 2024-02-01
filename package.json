@@ -31,7 +31,7 @@
   },
   "homepage": "https://github.com/Akent90/BrandBuilderJS#readme",
   "dependencies": {
-    "inquirer": "^9.2.13",
+    "inquirer": "^8.2.6",
     "svg.js": "^2.7.1"
   },
   "devDependencies": {
