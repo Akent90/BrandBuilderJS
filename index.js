@@ -1,7 +1,7 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
 const path = require('path');
-const { Circle, Triangle, Square } = require('lib/shapes.js');
+const { Circle, Triangle, Square } = require('./lib/shapes');
 
 async function promptUser() {
     return inquirer.prompt([
