@@ -26,7 +26,7 @@ Now you're ready to run the application and create your own logos!
 ## Usage
 
 Invoke the application in the terminal by using node index.js, and then simply follow the prompts!
-Here is a link showing the functionality of the app:
+Here is a link showing the functionality of the app: https://drive.google.com/file/d/1hD1FdzcN2g-mQvaaHRNXIqkZnwN3KM7t/view
 
 ## Contributing
 
