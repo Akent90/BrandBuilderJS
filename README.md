@@ -1,4 +1,4 @@
-# MarkdownMaestro
+# BrandBuilderJS
 
 ![License Badge](https://img.shields.io/badge/license-None-blue.svg)
 
@@ -39,6 +39,13 @@ For testing, we use jest.
 ## Questions
 
 For any questions, please reach out to me directly.
+
+## Resources
+
+This project was informed and enhanced by the following resources
+
+-JavaScript Switch Statement: https://www.w3schools.com/js/js_switch.asp
+-JavaScript Async/Await: https://www.freecodecamp.org/news/javascript-async-await-tutorial-learn-callbacks-promises-async-await-by-making-icecream/
 
 ## License
 
